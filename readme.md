@@ -1,5 +1,9 @@
 "Easy Bank es una app móvil perteneciente al Banco del País, que permite a sus usuarios “Millennials” crear una cuenta bancaria 100% digital, sin plástico, ni cobros de mantención ni papeleos para acceder a ella."
 
+
+## Desarrollado para
+[Laboratoria Chile](https://marvelapp.com/144jgb7g)
+
 #Proceso de research
 
 De acuerdo al reto planteado, la primera etapa de investigación fue realizar entrevistas y encuestas a potenciales usuarios, que estuvieran dentro del target asignado.
